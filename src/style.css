@@ -3,6 +3,10 @@
   margin-top: 2px;
 }
 
+.editInput {
+  width: 100% !important;
+}
+
 .titleSplash {
   font-size: 85px;
 }
