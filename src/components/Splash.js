@@ -5,7 +5,7 @@ export default class Splash extends Component {
     return (
       <div>
         <div>
-          <h1 className="text-center">Beer Topia</h1>
+          <h1 className="text-center titleSplash">Beer Topia</h1>
           <h3 className="text-center">Find and review random beers</h3>
         </div>
       </div>
