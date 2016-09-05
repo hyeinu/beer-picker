@@ -1,0 +1,84 @@
+/*.AppBar {
+  background-color: #ffcc00 !important;
+}
+
+.AppBar h1 {
+  color: #686868 !important;
+}
+*/
+.AppBar div {
+  margin-right: 20px;
+  margin-top: 2px;
+}
+
+.editProf {
+  font-size: 10px;
+  color: #686868
+}
+
+div {
+  /*border: 1px solid #000;*/
+}
+
+.profileImg {
+  width: 100%;
+  max-width: 250px;
+  margin-bottom: 20px;
+}
+
+.profileFrame {
+  max-width: 250px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.walkerProfText {
+  margin: 0 auto;
+  max-width: 250px;
+  text-align: left;
+}
+
+.editInput {
+  width: 100% !important;
+}
+
+.editBtn {
+  margin: 10px;
+}
+
+.profPic {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.imgDiv {
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 300px;
+  width: auto;
+}
+
+.walker {
+  margin-bottom: 40px;
+}
+
+.splashText {
+  color: white;
+  padding-top: 150px;
+}
+
+.splashBackground {
+  background-image:url('http://petparlorpro.com/wp-content/uploads/2013/06/dog-walk.jpg');
+  background-size: cover;
+  margin: -20px;
+  margin-top: -50px;
+  height: 700px;
+}
+
+.Modal {
+  padding-top: 100px;
+}
+
+.titleSplash {
+  font-size: 85px;
+}
